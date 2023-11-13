@@ -1,0 +1,45 @@
+Crie uma tabela em HTML, Javascript e PHP
+para gerenciar os dados dessa tabela abaixo
+
+CREATE TABLE tab_pessoas (
+    CodigoPes INT PRIMARY KEY,
+    DataCadastro DATE,
+    DataAlterac DATE,
+    NomeCompleto VARCHAR(255),
+    Situacao VARCHAR(50),
+    EmailSite VARCHAR(255),
+    Telefone VARCHAR(20),
+    SenhaSite VARCHAR(255),
+    Cpf VARCHAR(15),
+    Rua VARCHAR(255),
+    Bairro VARCHAR(100),
+    Numero INT,
+    Cep VARCHAR(10),
+    Uf VARCHAR(2),
+    Status VARCHAR(50)
+);
+
+
+- Crie uma tabela com opção de filtros (crescente e descrecente) e listagem;
+- E um botão em cada linha para gerenciar a pessoa
+
+
+Crie 50 registro com SQL para a tabela abaixo
+
+CREATE TABLE tab_pessoas (
+    CodigoPes INT PRIMARY KEY,
+    DataCadastro DATE,
+    DataAlterac DATE,
+    NomeCompleto VARCHAR(255),
+    Situacao VARCHAR(50),
+    EmailSite VARCHAR(255),
+    Telefone VARCHAR(20),
+    SenhaSite VARCHAR(255),
+    Cpf VARCHAR(15),
+    Rua VARCHAR(255),
+    Bairro VARCHAR(100),
+    Numero INT,
+    Cep VARCHAR(10),
+    Uf VARCHAR(2),
+    Status VARCHAR(50)
+);
